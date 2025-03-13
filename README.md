@@ -1,4 +1,4 @@
-# SAP-DATASPHERE-AND-ANALYTICS-CLOUD-PROJECT
+# SAP Datasphere and Analytics Cloud Project - Sales Analysis
 
 ## Project Background
 The aim of this project was mostly to test the waters of SAP Datasphere and SAP Analytics Cloud. However, while testing these waters, I wanted to solve a typical problem for a sample business.
