@@ -51,7 +51,7 @@ The Analytical Model comprised of measures (numerical metrics) and dimensions (a
 
 ### Building the Dashboard
 
-To enable the sales team, a dashboard was built to track the following overtime:
+To enable the sales team make swift business decisions, a dashboard was built to track the following overtime:
 
 - Total net revenue after tax
 
